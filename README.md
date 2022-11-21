@@ -4,7 +4,7 @@ This repository contains the code for Homework 4 for Algorithmic Methods for Dat
 Contributors:
 
 
-Barba Paolo
-Girolami Mattina
-Pelliccione Gabriele
+* Barba Paolo
+* Girolami Mattina
+* Pelliccione Gabriele
 
