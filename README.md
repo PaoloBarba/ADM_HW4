@@ -5,6 +5,6 @@ Contributors:
 
 
 * Barba Paolo
-* Girolami Mattina
+* Girolami Mattia
 * Pelliccione Gabriele
 
