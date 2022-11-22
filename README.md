@@ -6,5 +6,5 @@ Contributors:
 
 * Barba Paolo
 * Girolami Mattia
-* Pelliccione Gabriele
+* Pelliccioni Gabriele
 
